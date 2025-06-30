@@ -47,8 +47,7 @@ while i < len(lines) - 5:
        lines[i+4].startswith("#EXTHTTP:") and \
        lines[i+5].startswith("https"):
 
-        extinf = lines[i+2]
-        # Extract channel name
+        extinf = lines[i]  # ✅ Correct index for #EXTINF
         try:
             channel_name = extinf.split(",")[-1].strip()
             group = allowed_channels.get(channel_name.lower())
@@ -56,12 +55,11 @@ while i < len(lines) - 5:
             group = None
 
         if group:
-            # Inject new group-title
             updated_extinf = re.sub(r'group-title=".*?"', f'group-title="{group}"', extinf)
             block = "\n".join([
                 updated_extinf,
-                lines[i],
                 lines[i+1],
+                lines[i+2],
                 lines[i+3],
                 lines[i+4],
                 lines[i+5]
@@ -76,15 +74,14 @@ output_file = "jiotv.m3u"
 if os.path.exists(output_file):
     os.remove(output_file)
 
-if full_blocks:
-    print(f"✅ Found {len(full_blocks)} categorized channels.")
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n# Updated by GitHub Action\n\n")
+with open(output_file, "w", encoding="utf-8") as f:
+    if full_blocks:
+        print(f"✅ Found {len(full_blocks)} categorized channels.")
+        f.write("#EXTM3U\n# Updated by Script\n\n")
         for block in full_blocks:
             f.write(block + "\n")
-else:
-    print("⚠️ No matching channels found.")
-    with open(output_file, "w", encoding="utf-8") as f:
+    else:
+        print("⚠️ No matching channels found.")
         f.write("#EXTM3U\n# No matching channels found\n")
 
 os.chmod(output_file, 0o666)
