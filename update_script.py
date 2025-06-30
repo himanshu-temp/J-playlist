@@ -40,12 +40,12 @@ except Exception as e:
 full_blocks = []
 i = 0
 while i < len(lines) - 5:
-    if lines[i].startswith("#KODIPROP:") and \
+    if lines[i].startswith("#EXTINF:") and \
        lines[i+1].startswith("#KODIPROP:") and \
-       lines[i+2].startswith("#EXTINF:") and \
-       lines[i+3].startswith("#EXTHTTP:") and \
-       lines[i+4].startswith("#EXTVLCOPT:") and \
-       lines[i+5].startswith("http"):
+       lines[i+2].startswith("#KODIPROP:") and \
+       lines[i+3].startswith("#EXTVLCOPT:") and \
+       lines[i+4].startswith("#EXTHTTP:") and \
+       lines[i+5].startswith("https"):
 
         extinf = lines[i+2]
         # Extract channel name
