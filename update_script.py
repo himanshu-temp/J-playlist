@@ -59,9 +59,9 @@ while i < len(lines) - 5:
             # Inject new group-title
             updated_extinf = re.sub(r'group-title=".*?"', f'group-title="{group}"', extinf)
             block = "\n".join([
+                updated_extinf,
                 lines[i],
                 lines[i+1],
-                updated_extinf,
                 lines[i+3],
                 lines[i+4],
                 lines[i+5]
