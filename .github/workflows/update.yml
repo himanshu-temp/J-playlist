@@ -2,39 +2,44 @@ name: Update Playlist Every Hour
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:     # Enables manual run via Action button
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # 🔑 REQUIRED to allow push
+      contents: write  # REQUIRED: allows pushing to the repo
 
     steps:
-      - name: Checkout Repository
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: pip install python-dotenv requests
 
-      - name: Run update script
+      - name: ⚙️ Run update script
         run: python update_script.py
 
-      - name: Commit changes
+      - name: 🧪 Show output (debug)
+        run: |
+          ls -l jiotv.m3u
+          head -n 10 jiotv.m3u || echo "jiotv.m3u not found"
+
+      - name: ✅ Commit changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add artl.m3u || echo "Nothing to add"
+          git add jiotv.m3u || echo "Nothing to add"
           git commit -m "Auto update jiotv.m3u" || echo "No changes"
 
-      - name: Push changes
+      - name: 📤 Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
