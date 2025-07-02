@@ -2,15 +2,18 @@ name: Update Playlist Every 10 minutes
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
-  workflow_dispatch:     # Enables manual run via Action button
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # REQUIRED: allows pushing to the repo
+      contents: write
+
+    env:
+      SOURCE_URL: ${{ secrets.SOURCE_URL }}  # Inject secret
 
     steps:
       - name: 📥 Checkout Repository
@@ -26,11 +29,6 @@ jobs:
 
       - name: ⚙️ Run update script
         run: python update_script.py
-
-      - name: 🧪 Show output (debug)
-        run: |
-          ls -l jiotv.m3u
-          head -n 10 jiotv.m3u || echo "jiotv.m3u not found"
 
       - name: ✅ Commit changes
         run: |
