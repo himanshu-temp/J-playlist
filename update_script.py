@@ -247,7 +247,7 @@ while i < len(lines) - 5:
     i += 1
 
 # === Write output file ===
-output_file = "jiotv_updated.m3u"
+output_file = "jiotv.m3u"
 if os.path.exists(output_file):
     os.remove(output_file)
 
