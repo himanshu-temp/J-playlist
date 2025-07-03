@@ -55,7 +55,7 @@ custom_channel_data = {
   "star plus hd": {
     "tvg-id": "1132",
     "tvg-name": "Star Plus HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus_HD.png",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Plus_HD.png",
     "display-name": "Star Plus HD"
   },
   "star plus": {
