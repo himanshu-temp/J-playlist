@@ -139,6 +139,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/India_TV_BTS/output/index.mpd?__hdnea__=s
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
 #EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/NDTV_India_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
+#EXTINF:-1 tvg-id="286" group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
+#EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
 #EXTINF:-1 tvg-id="482" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
@@ -157,12 +163,30 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/India_news_BTS/output/index.mpd?__hdnea__
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
 #EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
+#EXTINF:-1 tvg-id="554" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e921b8507a5e5cd1bb4433b3fd1f5e0a:037835bab43e7ef4a41a97c638cd9c1d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
+#EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Kids_2_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
 #EXTINF:-1 tvg-id="559" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b967f351139503a88b1d1945203150b:c3e26279cc513e13154958f934141dc0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
 #EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
+#EXTINF:-1 tvg-id="566" group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead5a173062a584c85fcdfcfdda3ddf5:4c799a57db355c7cdfbdbf2ad39ec7fe
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
+#EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_Hindi_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
+#EXTINF:-1 tvg-id="568" group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=456f3924dff05372abec89e09f81ed2b:3362380b48f4029346e33804f35e1137
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/2.11.6
+#EXTHTTP:{"cookie":"__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Science_BTS/output/index.mpd?__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f&xxx=%7Ccookie=__hdnea__=st=1751508315~exp=1751594715~acl=/*~hmac=134b88264cb425f77e586b4905265eb4413b71e321483d19e9cfd62eeefc467f
 #EXTINF:-1 tvg-id="575" group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7de2a4993765d2cb71d07dfcb9c4c55:67a3c25d5e236c1caea9c9b312a40dd3
