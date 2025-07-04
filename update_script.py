@@ -29,7 +29,7 @@ for group, channels in channel_groups.items():
 # === Define your custom channel metadata ===
 custom_channel_data = {
   "disney channel": {
-    "tvg-id": "441391",
+    "tvg-id": "441319",
     "tvg-name": "DISNEY CHANNEL",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",
     "display-name": "Disney Channel"
@@ -41,13 +41,13 @@ custom_channel_data = {
     "display-name": "Disney Junior"
   },
   "hungama": {
-    "tvg-id": "hungama.in",
+    "tvg-id": "441264",
     "tvg-name": "Hungama",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",
     "display-name": "Hungama"
   },
   "super hungama": {
-    "tvg-id": "",
+    "tvg-id": "441274",
     "tvg-name": "Super Hungama",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",
     "display-name": "Super Hungama"
@@ -59,7 +59,7 @@ custom_channel_data = {
     "display-name": "Star Plus HD"
   },
   "star plus": {
-    "tvg-id": "starplushd.in",
+    "tvg-id": "441231",
     "tvg-name": "Star Plus",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus.png",
     "display-name": "Star Plus"
@@ -71,7 +71,7 @@ custom_channel_data = {
     "display-name": "Star Gold HD"
   },
   "star gold 2": {
-    "tvg-id": "",
+    "tvg-id": "441361",
     "tvg-name": "Star Gold 2",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png",
     "display-name": "Star Gold 2"
@@ -89,19 +89,19 @@ custom_channel_data = {
     "display-name": "Star Bharat HD"
   },
   "star bharat": {
-    "tvg-id": "",
+    "tvg-id": "441428",
     "tvg-name": "Star Bharat",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png",
     "display-name": "Star Bharat"
   },
   "star gold": {
-    "tvg-id": "",
+    "tvg-id": "441207",
     "tvg-name": "Star Gold",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png",
     "display-name": "Star Gold"
   },
   "star gold select hd": {
-    "tvg-id": "stargoldselecthd.in",
+    "tvg-id": "411619",
     "tvg-name": "Star Gold Select HD",
     "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png",
     "display-name": "Star Gold Select HD"
@@ -125,7 +125,7 @@ custom_channel_data = {
     "display-name": "Star Sports Select 2 HD"
   },
   "star gold select": {
-    "tvg-id": "",
+    "tvg-id": "411692",
     "tvg-name": "Star Gold Select",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
     "display-name": "Star Gold Select"
