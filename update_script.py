@@ -239,7 +239,7 @@ custom_channel_data = {
     "display-name": "Cartoon Network Hindi"
   },
   "colors sd": {
-    "tvg-id": "441299",
+    "tvg-id": "144",
     "tvg-name": "Colors SD",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",
     "display-name": "Colors SD"
