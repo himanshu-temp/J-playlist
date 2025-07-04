@@ -53,7 +53,7 @@ custom_channel_data = {
     "display-name": "Super Hungama"
   },
   "star plus hd": {
-    "tvg-id": "ts8",
+    "tvg-id": "441231",
     "tvg-name": "Star Plus HD",
     "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Plus_HD.png",
     "display-name": "Star Plus HD"
@@ -65,7 +65,7 @@ custom_channel_data = {
     "display-name": "Star Plus"
   },
   "star gold hd": {
-    "tvg-id": "ts632",
+    "tvg-id": "441358",
     "tvg-name": "Star Gold HD",
     "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Gold_HD.png",
     "display-name": "Star Gold HD"
@@ -77,7 +77,7 @@ custom_channel_data = {
     "display-name": "Star Gold 2"
   },
   "star gold 2 hd": {
-    "tvg-id": "",
+    "tvg-id": "441361",
     "tvg-name": "Star Gold 2 HD",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
     "display-name": "Star Gold 2 HD"
@@ -182,19 +182,19 @@ custom_channel_data = {
     "tvg-id": "545",
     "tvg-name": "Nick Hindi",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",
-    "display-name": "Nick Hindi"
+    "display-name": "Nick"
   },
   "discovery kids 2": {
-    "tvg-id": "554",
-    "tvg-name": "Discovery Kids 2",
+    "tvg-id": "411848",
+    "tvg-name": "Discovery Kids",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
-    "display-name": "Discovery Kids 2"
+    "display-name": "Discovery Kids"
   },
   "pogo hindi": {
-    "tvg-id": "559",
+    "tvg-id": "441376",
     "tvg-name": "Pogo Hindi",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
-    "display-name": "Pogo Hindi"
+    "display-name": "Pogo"
   },
   "animal planet hindi": {
     "tvg-id": "566",
@@ -212,7 +212,7 @@ custom_channel_data = {
     "tvg-id": "575",
     "tvg-name": "Discovery Channel Hindi",
     "tvg-logo": "https://watchindia.net/images/channels/hindi/Discovery_HD.png",
-    "display-name": "Discovery Channel Hindi"
+    "display-name": "Discovery Channel"
   },
   "history tv18 hd hindi": {
     "tvg-id": "578",
@@ -221,7 +221,7 @@ custom_channel_data = {
     "display-name": "History TV18 HD Hindi"
   },
   "dangal": {
-    "tvg-id": "701",
+    "tvg-id": "441196",
     "tvg-name": "Dangal",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png",
     "display-name": "Dangal"
@@ -233,13 +233,13 @@ custom_channel_data = {
     "display-name": "Sonic Hindi"
   },
   "cartoon network hindi": {
-    "tvg-id": "816",
+    "tvg-id": "441402",
     "tvg-name": "Cartoon Network Hindi",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
     "display-name": "Cartoon Network Hindi"
   },
   "colors sd": {
-    "tvg-id": "1368",
+    "tvg-id": "441299",
     "tvg-name": "Colors SD",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",
     "display-name": "Colors SD"
