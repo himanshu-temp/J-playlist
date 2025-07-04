@@ -29,111 +29,111 @@ for group, channels in channel_groups.items():
 # === Define your custom channel metadata ===
 custom_channel_data = {
   "disney channel": {
-    "tvg-id": "1373",
-    "tvg-name": "Hello",
+    "tvg-id": "441391",
+    "tvg-name": "DISNEY CHANNEL",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",
     "display-name": "Disney Channel"
   },
   "disney junior": {
-    "tvg-id": "1374",
+    "tvg-id": "",
     "tvg-name": "Disney Junior",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Junior.png",
     "display-name": "Disney Junior"
   },
   "hungama": {
-    "tvg-id": "1391",
+    "tvg-id": "hungama.in",
     "tvg-name": "Hungama",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Hungama.png",
     "display-name": "Hungama"
   },
   "super hungama": {
-    "tvg-id": "1392",
+    "tvg-id": "",
     "tvg-name": "Super Hungama",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Super_Hungama.png",
     "display-name": "Super Hungama"
   },
   "star plus hd": {
-    "tvg-id": "1132",
+    "tvg-id": "starplushd.in",
     "tvg-name": "Star Plus HD",
     "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Plus_HD.png",
     "display-name": "Star Plus HD"
   },
   "star plus": {
-    "tvg-id": "1116",
+    "tvg-id": "starplushd.in",
     "tvg-name": "Star Plus",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus.png",
     "display-name": "Star Plus"
   },
   "star gold hd": {
-    "tvg-id": "156",
+    "tvg-id": "stargoldhd.in",
     "tvg-name": "Star Gold HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Gold_HD.png",
     "display-name": "Star Gold HD"
   },
   "star gold 2": {
-    "tvg-id": "1154",
+    "tvg-id": "",
     "tvg-name": "Star Gold 2",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png",
     "display-name": "Star Gold 2"
   },
   "star gold 2 hd": {
-    "tvg-id": "1155",
+    "tvg-id": "",
     "tvg-name": "Star Gold 2 HD",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
     "display-name": "Star Gold 2 HD"
   },
   "star bharat hd": {
-    "tvg-id": "931",
+    "tvg-id": "starbharathd.in",
     "tvg-name": "Star Bharat HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Bharat_HD.png",
     "display-name": "Star Bharat HD"
   },
   "star bharat": {
-    "tvg-id": "1127",
+    "tvg-id": "",
     "tvg-name": "Star Bharat",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png",
     "display-name": "Star Bharat"
   },
   "star gold": {
-    "tvg-id": "1125",
+    "tvg-id": "",
     "tvg-name": "Star Gold",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png",
     "display-name": "Star Gold"
   },
   "star gold select hd": {
-    "tvg-id": "1113",
+    "tvg-id": "stargoldselecthd.in",
     "tvg-name": "Star Gold Select HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png",
     "display-name": "Star Gold Select HD"
   },
   "star sports 1 hindi hd": {
-    "tvg-id": "173",
+    "tvg-id": "starsports1hd.in",
     "tvg-name": "Star Sports 1 Hindi HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
+    "tvg-logo": "https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png",
     "display-name": "Star Sports 1 Hindi HD"
   },
   "star sports select 1 hd": {
-    "tvg-id": "300",
+    "tvg-id": "starsportsselect1hd.in",
     "tvg-name": "Star Sports Select 1 HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",
+    "tvg-logo": "https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",
     "display-name": "Star Sports Select 1 HD"
   },
   "star sports select 2 hd": {
-    "tvg-id": "301",
+    "tvg-id": "starsportsselecthd2.in",
     "tvg-name": "Star Sports Select 2 HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",
+    "tvg-logo": "https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png",
     "display-name": "Star Sports Select 2 HD"
   },
   "star gold select": {
-    "tvg-id": "1119",
+    "tvg-id": "",
     "tvg-name": "Star Gold Select",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
     "display-name": "Star Gold Select"
   },
   "colors hd": {
-    "tvg-id": "144",
-    "tvg-name": "Colors HD",
-    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png",
+    "tvg-id": "colors.in",
+    "tvg-name": "Colors TV HD",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Colors_TV_HD.png",
     "display-name": "Colors HD"
   },
   "abp news india": {
@@ -179,13 +179,96 @@ custom_channel_data = {
     "display-name": "India news"
   },
   "nick hindi": {
-    "tvg-id": "545",
+    "tvg-id": "nick.in",
     "tvg-name": "Nick Hindi",
     "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",
     "display-name": "Nick Hindi"
+  },
+  "discovery kids 2": {
+    "tvg-id": "554",
+    "tvg-name": "Discovery Kids 2",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
+    "display-name": "Discovery Kids 2"
+  },
+  "pogo hindi": {
+    "tvg-id": "559",
+    "tvg-name": "Pogo Hindi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
+    "display-name": "Pogo Hindi"
+  },
+  "animal planet hindi": {
+    "tvg-id": "566",
+    "tvg-name": "Animal Planet Hindi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
+    "display-name": "Animal Planet Hindi"
+  },
+  "discovery science": {
+    "tvg-id": "568",
+    "tvg-name": "Discovery Science",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png",
+    "display-name": "Discovery Science"
+  },
+  "discovery channel hindi": {
+    "tvg-id": "discovery.in",
+    "tvg-name": "Discovery Channel Hindi",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Discovery_HD.png",
+    "display-name": "Discovery Channel Hindi"
+  },
+  "history tv18 hd hindi": {
+    "tvg-id": "578",
+    "tvg-name": "History TV18 HD Hindi",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/History_TV_HD.png",
+    "display-name": "History TV18 HD Hindi"
+  },
+  "dangal": {
+    "tvg-id": "701",
+    "tvg-name": "Dangal",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png",
+    "display-name": "Dangal"
+  },
+  "sonic hindi": {
+    "tvg-id": "815",
+    "tvg-name": "Sonic Hindi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/sonic_Hindi.png",
+    "display-name": "Sonic Hindi"
+  },
+  "cartoon network hindi": {
+    "tvg-id": "816",
+    "tvg-name": "Cartoon Network Hindi",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",
+    "display-name": "Cartoon Network Hindi"
+  },
+  "colors sd": {
+    "tvg-id": "1368",
+    "tvg-name": "Colors SD",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",
+    "display-name": "Colors SD"
+  },
+  "colors cineplex superhit": {
+    "tvg-id": "1450",
+    "tvg-name": "Colors Cineplex Superhit",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+    "display-name": "Colors Cineplex Superhit"
+  },
+  "colors cineplex hd": {
+    "tvg-id": "colorscineplexhd.in",
+    "tvg-name": "Colors Cineplex HD",
+    "tvg-logo": "https://watchindia.net/images/channels/hindi/Cineplex_HD.png",
+    "display-name": "Colors Cineplex HD"
+  },
+  "colors cineplex bollywood": {
+    "tvg-id": "1763",
+    "tvg-name": "Colors Cineplex Bollywood",
+    "tvg-logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+    "display-name": "Colors Cineplex Bollywood"
+  },
+  "star sports 2 hindi hd": {
+    "tvg-id": "starsports2.in",
+    "tvg-name": "Star Sports 2 Hindi HD",
+    "tvg-logo": "https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png",
+    "display-name": "Star Sports 2 Hindi HD"
   }
-
-    # Add more channel customizations here
+        # Add more channel customizations here
 }
 
 # === Fetch playlist ===
