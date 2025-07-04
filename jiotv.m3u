@@ -25,7 +25,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd?__hdnea__=st
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="ts8" tvg-name="Star Plus HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png",Star Plus HD
+#EXTINF:-1 tvg-id="441231" tvg-name="Star Plus HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -37,7 +37,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="ts632" tvg-name="Star Gold HD" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png",Star Gold HD
+#EXTINF:-1 tvg-id="441358" tvg-name="Star Gold HD" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -49,7 +49,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2 HD" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
+#EXTINF:-1 tvg-id="441361" tvg-name="Star Gold 2 HD" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -151,19 +151,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd?__h
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/India_news_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc128a8dcc751829ec7ed9c678ecb6f:95f49d83ad11868e15e64baf5dec62ac
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
+#EXTINF:-1 tvg-id="411848" tvg-name="Discovery Kids" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e921b8507a5e5cd1bb4433b3fd1f5e0a:037835bab43e7ef4a41a97c638cd9c1d
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Kids_2_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
+#EXTINF:-1 tvg-id="441376" tvg-name="Pogo Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b967f351139503a88b1d1945203150b:c3e26279cc513e13154958f934141dc0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -181,7 +181,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_Hindi_BTS/output/index.mpd?
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Science_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="575" tvg-name="Discovery Channel Hindi" group-title="Knowledge" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png",Discovery Channel Hindi
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Channel Hindi" group-title="Knowledge" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7de2a4993765d2cb71d07dfcb9c4c55:67a3c25d5e236c1caea9c9b312a40dd3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -193,7 +193,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_BTS/output/index.
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="701" tvg-name="Dangal" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png",Dangal
+#EXTINF:-1 tvg-id="441196" tvg-name="Dangal" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dangal.png",Dangal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
@@ -205,13 +205,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Dangal_BTS/output/index.mpd?__hdnea__=st=
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#EXTINF:-1 tvg-id="441402" tvg-name="Cartoon Network Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="1368" tvg-name="Colors SD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
+#EXTINF:-1 tvg-id="441299" tvg-name="Colors SD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5727d2eea91255a3abcad8bf6e97cee6:66e77c7cf5c7f654c68f05455f44fea0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
