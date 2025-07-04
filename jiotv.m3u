@@ -211,7 +211,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea_
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe&xxx=%7Ccookie=__hdnea__=st=1751594675~exp=1751681075~acl=/*~hmac=18d6bc8982ee9c08391fcb5f5a7a42651003ca0a1576b947c05ac4a651b510fe
-#EXTINF:-1 tvg-id="441299" tvg-name="Colors SD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
+#EXTINF:-1 tvg-id="144" tvg-name="Colors SD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5727d2eea91255a3abcad8bf6e97cee6:66e77c7cf5c7f654c68f05455f44fea0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
