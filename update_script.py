@@ -65,7 +65,7 @@ custom_channel_data = {
     "display-name": "Star Gold Select HD"
   },
   "star plus hd": {
-    "tvg-id": "441231",
+    "tvg-id": "ts8",
     "tvg-name": "Star Plus HD",
     "tvg-logo": "https://watchindia.net/images/channels/hindi/Star_Plus_HD.png",
     "display-name": "Star Plus HD"
