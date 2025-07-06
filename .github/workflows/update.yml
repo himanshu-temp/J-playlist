@@ -1,7 +1,6 @@
 name: Update Playlist
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
