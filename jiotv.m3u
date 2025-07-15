@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Himanshu8221/TVGenie/refs/heads/main/tvgenie_epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Himanshu8221/TVGenie/main/tvgenie_epg.xml"
 # Updated By Himanshu
 
 #EXTINF:-1 tvg-id="441391" tvg-name="DISNEY CHANNEL" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
